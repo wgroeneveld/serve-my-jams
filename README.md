@@ -2,6 +2,10 @@
 
 > A minimalistic jamstack-augmented microservice for webmentions etc
 
+⚠️ As of 7 april 2021, this repository is **no longer being maintained**. A fork of serve-my-jams called [go-jamming](https://github.com/wgroeneveld/go-jamming) is available instead, powered by Go - "go" check it out! 
+
+---
+
 **Are you looking for a way to DO something with this?** See https://github.com/wgroeneveld/jam-my-stack !
 
 This is a set of minimalistic [Koa-based](https://koajs.com/) microservices that aid you in your IndieWeb Jamstack coolness 😎 (name-dropping). While [jam-my-stack](https://github.com/wgroeneveld/jam-my-stack) is a set of scripts used to run at checkin-time, this is a dymamic service that handles requests. 
